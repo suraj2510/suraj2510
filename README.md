@@ -13,7 +13,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/https://twitter.com/surya1149?t=kv779qs9evn4zpooh8dcxq&s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/surya1149?t=kv779qs9evn4zpooh8dcxq&s=09" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/suraj-maurya-a94a15254" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/suraj-maurya-a94a15254" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/suraj-maurya-a94a15254" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/surajmaurya252101101/" height="30" width="40" /></a>
 <a href="https://instagram.com/https://instagram.com/suraj._.2510" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/suraj._.2510" height="30" width="40" /></a>
 </p>
 
