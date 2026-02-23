@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suraj2510&label=Profile%20views&color=0e75b6&style=flat" alt="suraj2510" /> </p>
 
-- 🌱 I’m currently learning **Java + Data Structure and Algorithm.**
+- 🌱 I’m currently learning **Data Analysis.**
 
 - 📫 How to reach me **Surajmaurya1149@gmail.com**
 
